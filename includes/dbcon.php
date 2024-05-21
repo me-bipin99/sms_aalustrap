@@ -3,7 +3,7 @@
 
 //For XAMPP
 $ser = 'localhost';
-$db = 'bee_sms';
+$db = 'school_ms';
 $usr = 'root';
 $pwd = '';
 $conn = mysqli_connect($ser, $usr, $pwd, $db);
